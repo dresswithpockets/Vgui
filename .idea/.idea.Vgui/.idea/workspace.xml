@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e4bb4bd-563d-4a76-b3ae-45ff7a2365c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vgui.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vgui/Parse/HudFileSourceProvider.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vgui/Parse/IFileSourceProvider.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vgui/Parse/Lexer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vgui/Parse/Parser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vgui/Parse/Preprocessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vgui/Parse/Token.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vgui/Vgui.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vgui/VguiObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../pocketcfg/PocketCfg/PocketCfg.Res/ResPreprocessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D3BFDB86-DA53-416A-9A76-296E6325A7B3/16/ElementAt.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F3DD31A3-D437-4D7D-9525-D887480DAE95/70/Char.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Vgui/IFileProvider.cs" />
+      <option value="$PROJECT_DIR$/Vgui/IFileSourceProvider.cs" />
+      <option value="$PROJECT_DIR$/Vgui/HudFileSourceProvider.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Token.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Lexer.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Parser.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Preprocessor.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Parse/Preprocessor.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Parse/HudFileSourceProvider.cs" />
+      <option value="$PROJECT_DIR$/Vgui/VguiFlag.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Parse/IFileSourceProvider.cs" />
+      <option value="$PROJECT_DIR$/Vgui/VguiNameFlagKey.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Vgui.csproj" />
+      <option value="$PROJECT_DIR$/Vgui/VguiObject.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Parse/Token.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Parse/Parser.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Parse/Lexer.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Parse/Process.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1skzHkuSIerkQLQJHvPDHWExoMs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e4bb4bd-563d-4a76-b3ae-45ff7a2365c5" name="Default Changelist" comment="" />
+      <created>1621431292555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621431292555</updated>
+      <workItem from="1621431298713" duration="12653000" />
+      <workItem from="1621612144715" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
