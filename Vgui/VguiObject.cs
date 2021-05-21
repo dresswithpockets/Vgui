@@ -23,6 +23,8 @@ namespace Vgui
             Value = null;
         }
 
+        public VguiObject? Get(string name) => Properties.TryGetValue(name, out var val) ? val : null;
+
         internal void MergeOrAddProperty(VguiObject other)
         {
             // if _properties contains a matching NameFlagKey based on the iterated prop,

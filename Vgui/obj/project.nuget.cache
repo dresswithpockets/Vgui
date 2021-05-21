@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hIKvW3ndlcKzqoOnrcE6YMFP7pK6KXZYz1AS9DQs6IJxGvWqRpGnE4hAdmyc6acxq8PpNa3F3d5M/eQdeWs/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ashley\\Documents\\Projects\\Vgui\\Vgui\\Vgui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

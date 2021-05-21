@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e4bb4bd-563d-4a76-b3ae-45ff7a2365c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vgui.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vgui/Parse/HudFileSourceProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vgui/Parse/IFileSourceProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vgui/Parse/Lexer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vgui/Parse/Parser.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vgui/Parse/Preprocessor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vgui/Parse/Token.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vgui/Vgui.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vgui/VguiObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vgui/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Vgui/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vgui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Vgui/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vgui/Parse/Process.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vgui/VguiSerializer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vgui/VguiObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vgui/VguiObject.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +38,16 @@
       <option value="$PROJECT_DIR$/Vgui/Parse/IFileSourceProvider.cs" />
       <option value="$PROJECT_DIR$/Vgui/VguiNameFlagKey.cs" />
       <option value="$PROJECT_DIR$/Vgui/Vgui.csproj" />
-      <option value="$PROJECT_DIR$/Vgui/VguiObject.cs" />
       <option value="$PROJECT_DIR$/Vgui/Parse/Token.cs" />
       <option value="$PROJECT_DIR$/Vgui/Parse/Parser.cs" />
       <option value="$PROJECT_DIR$/Vgui/Parse/Lexer.cs" />
+      <option value="$PROJECT_DIR$/LICENSE.md" />
+      <option value="$PROJECT_DIR$/.gitignore" />
       <option value="$PROJECT_DIR$/Vgui/Parse/Process.cs" />
+      <option value="$PROJECT_DIR$/Vgui/Parse/VguiSerializer.cs" />
+      <option value="$PROJECT_DIR$/Vgui/VguiSerializer.cs" />
+      <option value="$PROJECT_DIR$/Vgui/VguiObject.cs" />
+      <option value="$PROJECT_DIR$/README.md" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1skzHkuSIerkQLQJHvPDHWExoMs" />
@@ -77,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621431292555</updated>
       <workItem from="1621431298713" duration="12653000" />
-      <workItem from="1621612144715" duration="339000" />
+      <workItem from="1621612144715" duration="2286000" />
     </task>
     <servers />
   </component>

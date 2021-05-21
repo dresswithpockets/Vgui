@@ -1,14 +1,15 @@
 ﻿using System.Diagnostics;
 using System.Linq;
+using Vgui.Parse;
 
-namespace Vgui.Parse
+namespace Vgui
 {
-    public static class Process
+    public static class VguiSerializer
     {
-        public static VguiObject ProcessFile(string rootPath, string file) =>
-            ProcessFile(file, new HudFileSourceProvider(rootPath));
+        public static VguiObject FromFile(string rootPath, string file) =>
+            FromFile(file, new HudFileSourceProvider(rootPath));
 
-        public static VguiObject ProcessFile(string file, IFileSourceProvider sourceProvider)
+        public static VguiObject FromFile(string file, IFileSourceProvider sourceProvider)
         {
             var preprocessed = new Preprocessor(sourceProvider).Process(file);
             var tokens = new Lexer(preprocessed).GetTokens();
@@ -16,7 +17,7 @@ namespace Vgui.Parse
             return FromValue(root);
         }
 
-        private static VguiObject FromValue(Value value)
+        public static VguiObject FromValue(Value value)
         {
             if (value.String != null) return new VguiObject(value.Name.Value, value.String.Value);
             var obj = new VguiObject(value.Name.Value);

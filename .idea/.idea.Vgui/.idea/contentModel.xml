@@ -23,12 +23,12 @@
           <e p="Lexer.cs" t="Include" />
           <e p="Parser.cs" t="Include" />
           <e p="Preprocessor.cs" t="Include" />
-          <e p="Process.cs" t="Include" />
           <e p="Token.cs" t="Include" />
         </e>
         <e p="Vgui.csproj" t="IncludeRecursive" />
         <e p="VguiNameFlagKey.cs" t="Include" />
         <e p="VguiObject.cs" t="Include" />
+        <e p="VguiSerializer.cs" t="Include" />
       </e>
       <e p="Vgui.sln" t="IncludeFlat" />
     </e>

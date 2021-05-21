@@ -1,0 +1,9 @@
+C:\Users\Ashley\Documents\Projects\Vgui\Vgui\obj\Debug\netstandard2.0\Vgui.csprojAssemblyReference.cache
+C:\Users\Ashley\Documents\Projects\Vgui\Vgui\obj\Debug\netstandard2.0\Vgui.AssemblyInfoInputs.cache
+C:\Users\Ashley\Documents\Projects\Vgui\Vgui\obj\Debug\netstandard2.0\Vgui.AssemblyInfo.cs
+C:\Users\Ashley\Documents\Projects\Vgui\Vgui\obj\Debug\netstandard2.0\Vgui.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Documents\Projects\Vgui\Vgui\bin\Debug\netstandard2.0\Vgui.deps.json
+C:\Users\Ashley\Documents\Projects\Vgui\Vgui\bin\Debug\netstandard2.0\Vgui.dll
+C:\Users\Ashley\Documents\Projects\Vgui\Vgui\bin\Debug\netstandard2.0\Vgui.pdb
+C:\Users\Ashley\Documents\Projects\Vgui\Vgui\obj\Debug\netstandard2.0\Vgui.dll
+C:\Users\Ashley\Documents\Projects\Vgui\Vgui\obj\Debug\netstandard2.0\Vgui.pdb
